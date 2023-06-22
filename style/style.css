@@ -36,3 +36,13 @@
     right: 15%;
 }
 
+.container-topo div a {
+    margin-right: 20px;
+    font-size: 18px;
+    font-family: "Oswald", sans-serif;
+    font-weight: 700;
+    text-decoration: none;
+    text-shadow: 3px 5px 2px #000000;
+    letter-spacing: 2px;
+    color: #c4a47c;;
+}
