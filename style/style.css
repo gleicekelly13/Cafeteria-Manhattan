@@ -23,3 +23,16 @@
     background-color: #604829;
     z-index: 1;
 }
+
+.container-topo img {
+    width: 100px;
+    position: relative;
+    left: 15%;
+}
+
+.container-topo div {
+    position: absolute;
+    top: 35%;
+    right: 15%;
+}
+
