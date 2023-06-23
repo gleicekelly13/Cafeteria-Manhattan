@@ -43,6 +43,23 @@
     font-weight: 700;
     text-decoration: none;
     text-shadow: 3px 5px 2px #000000;
-    letter-spacing: 2px;
+    letter-spacing: 2px; 
     color: #c4a47c;;
+}
+
+/* Container Parallax 1 */
+.container-parallax1 {
+    background-image: url("/assets/parallax-imagem1.png"); /* pasta e nome do arquivo, respectivamente*/
+    height: 100vh;
+}
+
+.container-parallax1 h1 {
+    position: absolute;
+    top: 45%;
+    right: 0;
+    left: 0;
+    color: #fff;
+    font-weight: 400;
+    font-family: "Fraunces", serif;
+    font-size: 100px;
 }
