@@ -175,3 +175,21 @@
     letter-spacing: 1px;
     color: #666;
 }
+
+/*Container-parallax 5 */
+.container-parallax5 {
+    background-image: url("/assets/cafeteria.jpg");
+    height: 85vh;
+}
+
+.container-parallax5 h2 {
+    position: absolute;
+    margin: 0 auto;
+    top: 20%;
+    right: 0;
+    left: 0;
+    font-family: "Oswald", sans-serif;
+    text-align: center;
+    letter-spacing: 8px;
+    color: #fff;
+}
