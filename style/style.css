@@ -64,8 +64,29 @@
     font-size: 100px;
 }
 
-/* Container Parallax 2 */
+/* Container Parallax 2 */ 
 .container-parallax2 {
     background-image: url("/assets/parallax-imagem2.jpg");
     height: 50vh;
+}
+
+.container-parallax2 h3 { /* Posicionamento do subtítulo h3 detro do parallax 2 */
+    width: 500px;
+    padding: 10px;
+
+    position: relative;
+    top: 45%;
+    right: 0;
+    left: 0;
+    margin: auto;
+
+    font-size: 24px;
+    font-weight: 400;
+    font-style: italic;
+    font-family: "Fraunces", serif;
+    text-align: center;
+
+    letter-spacing: 2px;
+    background-color: #604829;
+    color: #fff;
 }
