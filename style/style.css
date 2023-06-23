@@ -70,7 +70,8 @@
     height: 50vh;
 }
 
-.container-parallax2 h3 { /* Posicionamento do subtítulo h3 detro do parallax 2 */
+.container-parallax2 h3,
+.container-parallax3 h3 { /* Posicionamento do subtítulo h3 detro do parallax 2 e parallax3  */
     width: 500px;
     padding: 10px;
 
@@ -89,4 +90,10 @@
     letter-spacing: 2px;
     background-color: #604829;
     color: #fff;
+}
+
+/* Container Parallax 3 */
+.container-parallax3 {
+    background-image: url("/assets/parallax-imagem3.jpg");
+    height: 50vh;
 }
