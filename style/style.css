@@ -97,3 +97,25 @@
     background-image: url("/assets/parallax-imagem3.jpg");
     height: 50vh;
 }
+
+/*Container Parallax 4 */
+.container-parallax4 {
+    background-image: url("/assets/parallax-imagem4.png");
+    height: 100vh;
+}
+
+.container-parallax4 h2 { /* posicionamento do h2 dentro do parallax 4 */
+    width: 500px;
+    padding: 10px;
+    position: relative;
+    top: 10%;
+    right: 0;
+    left: 0;
+    margin: auto;
+    font-size: 24px;
+    font-family: "Oswald", serif;
+    letter-spacing: 5px;
+    text-align: center;
+    color: #fff;
+    background-color: #604829;
+}
