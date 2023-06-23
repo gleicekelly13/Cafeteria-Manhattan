@@ -119,3 +119,11 @@
     color: #fff;
     background-color: #604829;
 }
+
+.container-parallax4 iframe { /*iframe dentro do parallax 4 */
+    position: absolute;
+    top: 23%;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
