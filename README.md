@@ -5,3 +5,6 @@
 
 ## :desktop_computer: Desktop design
 <br>
+<div align="center">
+<img src="https://github.com/gleicekelly13/Cafeteria-Manhattan/assets/80974593/cf6ae79d-96e4-4ffd-91aa-539a52e52f12" width="500"/>
+</div
