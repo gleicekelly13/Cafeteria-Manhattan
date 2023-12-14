@@ -10,6 +10,18 @@
 </div>
 <br>
 
+<h2 align="center">:hammer: Funcionalidades do projeto </h2>
+<ul>
+  <li>O topo da página está sempre visível, mesmo que o usuário role o scroll para o fim da página, o topo continua visível;
+</li>
+  <li>A página proporciona interação entre as seções, a navegação está associada aos links no topo e no rodapé da página, 
+    ou seja, ao clicar nos links o usuário será direcionado para o ponto específico referente ao link clicado;</li>
+  <li>A página contém uma página externa - página do Google Maps que possibilita - que o usuário visualize o endereço da loja física da cafeteria;</li>
+  <li>A página possui uma lista informativa, que tem as informações referentes aos horários de funcionamento da cafeteria;</li>
+  <li>Todas as imagens de fundo das seções receberam o efeito Parallax, que cria uma ilusão de profundidade nas imagens de fundo da página. 
+    Quando o usuário move a página, tem a impressão de que as imagens estão em uma dimensão diferente dos outros elementos do site.</li>
+</ul>
+<br>
 <h2 align="center"> :computer: Tecnologias utilizadas </h2>
 <p>HTML5</p>
 <p>CSS3</p>
