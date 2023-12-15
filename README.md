@@ -6,7 +6,7 @@
 ## :desktop_computer: Desktop design
 <br>
 <div align="center">
-<img src="https://github.com/gleicekelly13/Cafeteria-Manhattan/assets/80974593/cf6ae79d-96e4-4ffd-91aa-539a52e52f12" width="500"/>
+<img src="https://github.com/gleicekelly13/Cafeteria-Manhattan/assets/80974593/3d0c1912-3ec0-4423-b97a-82adad923984" width="500"/>
 </div>
 <br>
 
