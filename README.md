@@ -26,6 +26,11 @@
     Quando o usuário move a página, tem a impressão de que as imagens estão em uma dimensão diferente dos outros elementos do site.</li>
 </ul>
 <br>
+
+<h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
+
+<br>
+
 <h2 align="center"> :computer: Tecnologias utilizadas </h2>
 <p>HTML5</p>
 <p>CSS3</p>
