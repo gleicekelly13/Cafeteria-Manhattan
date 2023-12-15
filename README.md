@@ -28,7 +28,15 @@
 <br>
 
 <h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
-
+<ul>
+  <li>Manter o topo fixo na parte superior da página;</li>
+  <li>Criação dos links de navegação na própria página do site;</li>
+  <li>Aplicação do efeito parallax nas imagens de fundo da página;</li>
+  <li>Inserir uma página externa ao website do projeto;</li>
+  <li>Implementar uma lista na página;</li>
+  <li>Posicionar o link do rodapé de forma ele fique "flutuando;</li>
+  <li>Aplicação dos conceitos de posicionar elementos utilizando as propriedades CSS: background, position, top, right, bottom, left.</li>
+</ul>
 <br>
 
 <h2 align="center"> :computer: Tecnologias utilizadas </h2>
